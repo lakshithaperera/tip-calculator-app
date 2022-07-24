@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tip-calculator-app/static/js/main.3f11c4c3.js",
+    "index.html": "/tip-calculator-app/index.html",
+    "main.3f11c4c3.js.map": "/tip-calculator-app/static/js/main.3f11c4c3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3f11c4c3.js"
+  ]
+}
